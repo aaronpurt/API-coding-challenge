@@ -1,6 +1,6 @@
 # API-coding-challenge
 
-Build an excurions API that uses CRUD fundamentals. The API's are for a cruise excursions. Please create the APIs in JAVA or Javascript (node.js). Use permanent data storage in SQL (Oracle, mySql) or in MongoDb. The data.json file contains the data to use in the API. [data.json](../blob/master/data.json)
+Build an excurions API that uses CRUD fundamentals. The API's are for a cruise excursions. Please create the APIs in JAVA or Javascript (node.js). Use permanent data storage in SQL (Oracle, mySql) or in MongoDb. The data.json file contains the data to use in the API. [data.json](../master/data.json)
 
 ## Requirements:
 
